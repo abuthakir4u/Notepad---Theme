@@ -1,7 +1,7 @@
-Notepad---Theme
+Notepad++ Theme
 ===============
 
-Notepad++ editor themes
+Notepad++ editor theme
 
 How to install?
 
